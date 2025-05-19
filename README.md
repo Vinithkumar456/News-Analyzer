@@ -1,5 +1,4 @@
-# News Analyzer: Detecting Fake News and Summarizing Articles
-
+# News Analyzer: ML Based News Classification System
 This project utilizes Python and Natural Language Processing (NLP) techniques to analyze news articles. It performs two primary tasks:
 
 1.  **Fake News Detection:** Employs a Logistic Regression model to classify news articles as either real or fake.
